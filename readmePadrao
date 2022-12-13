@@ -1,0 +1,93 @@
+<img src="https://i.imgur.com/Np65k86.png" width="25%" align="right">
+<h1 align="center">Nome Do Plugin</h1>
+<h3 align="center">Descrição basica do plugin.  <a href="Link do yml do plugin">YML</a></h3>
+<br/>
+<li align="left"><img align="center" width="3%" src="https://media2.giphy.com/media/6IAzxmKVaYDLFMe1Aw/giphy.gif">Desenvolvido com &#10084; por <strong>Seu Nick </strong></li>
+<li align="left"><img align="center" width="3%" src="https://pa1.narvii.com/6593/e251ba0b01ea0620d6af6c34ab7dd1ae742e47a6_hq.gif"> Versão do minecraft: <strong>1.16x</strong></li>
+<li align="left"><img align="center" width="3%" src="https://theminecrafthosting.com/img/JAR-Icons/papermc_logomark_500.png">Versao do Plugin: 2.0</li>
+
+<br/>
+<table style="width: 100%;">
+    <tr>
+        <th>Eventos</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>
+        <a href="Link da api">NomeDoEvento</a>
+        </td>
+        <td>Descrição da api</td>
+    </tr>
+    <tr>
+        <td>
+        <a href="Link da api">NomeDoEvento</a>
+        </td>
+        <td>Descrição da api</td>
+    </tr>
+</table>
+
+# Código [API]
+
+### Utilizando o evento <a href="Link da api">Nome do evento</a>
+```java
+Codigo aqui dentro
+```
+
+#   Placeholders:
+<table style="width: 100%;">
+    <tr>
+        <th>Placeholder</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>%placeholder%</td>
+        <td>Descricao do placeholder</td>
+    </tr>
+    <tr>
+        <td>%placeholder%</td>
+        <td>Descricao do placeholder</td>
+    </tr>
+</table>
+
+# Comandos e permissões
+
+<table style="width: 100%;">
+    <tr>
+        <th>Comando</th>
+        <th>Ação</th>
+        <th>Executor</th>
+        <th>Permissão</th>
+    </tr>
+    <tr>
+        <td>/comando</td>
+        <td>Descricao do comando</td>
+        <td>Admin</td>
+        <td>Prmissao</td>
+    </tr>
+    <tr>
+        <td>/comando</td>
+        <td>Descricao do comando</td>
+        <td>Admin</td>
+        <td>Prmissao</td>
+    </tr>
+</table>
+
+# Informações do desenvolvedor
+<table style="width: 100%;">
+    <tr>
+        <th>Desenvolvedor</th>
+        <th>Discord</th>
+        <th>Github</th>
+        <th>E-mail</th>
+        <th>Pagamento</th>
+        <th>Telefone</th>
+    </tr>
+    <tr>
+        <td>SeuNome</td>
+        <td>DiscordAqui (ID Discord)</td>
+        <td><a href="https://github.com/LinkDoGit">Nick</a></td>
+        <td>Email Aqui</td>
+        <td><a href="Link da imagem do pagamento">Imagem</a></td>
+        <td>[DD] Numero</td>
+    </tr>
+</table>
